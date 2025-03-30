@@ -9,7 +9,7 @@ Me chamo Murilo do Amaral Dall'Ovo, tenho 18 anos e sou natural de Jaú, SP. Atu
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/dmurilo?color=FFFF00&style=for-the-badge&labelColor=FFFF00&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/dmurilo?color=FFFF00&style=for-the-badge&labelColor=FFFF00&logo=star&label=estrelas&logoColor=black"
         />
     </a>
     <a href="https://github.com/dmurilo?tab=followers">
