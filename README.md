@@ -27,10 +27,10 @@ Me chamo Murilo do Amaral Dall'Ovo, tenho 18 anos e sou natural de Jaú, SP. Atu
 ## 📊 Estatísticas
 
 <a href="https://github.com/dmurilo/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=dmurilo&theme=tokyonight" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=dmurilo&theme=tokyonight" />
 </a>
 <a href="https://github.com/dmurilo/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmurilo&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmurilo&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 ## 📈 Gráfico de Contribuição
