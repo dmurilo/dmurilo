@@ -1,10 +1,8 @@
 # 👩🏻‍💻 Murilo do Amaral Dall'Ovo
 <br>
-<br>
 
 **`Futuro Desenvolvedor FullStack`**
 
-<br>
 <br>
 Estudante de Bacharelado em Ciência da Computação pelo IFSP - Salto.
 <br>
@@ -19,7 +17,9 @@ Estudante de Bacharelado em Ciência da Computação pelo IFSP - Salto.
 <br>
 <div align="center"> 
   <a href = "mailto:murilodallovo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href=www.linkedin.com/in/murilo-do-amaral-dall-ovo-160588357 target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href=www.linkedin.com/in/murilo-do-amaral-dall-ovo-160588357 target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
 <br>
 <br>
