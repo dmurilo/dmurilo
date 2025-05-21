@@ -4,9 +4,6 @@
 **`Futuro Desenvolvedor FullStack`**
 
 <br>
-Estudante de Bacharelado em Ciência da Computação pelo IFSP - Salto.
-<br>
-<br>
 <a href="https://github.com/dmurilo/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=dmurilo&theme=tokyonight" />
 </a>
