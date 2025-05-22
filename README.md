@@ -6,10 +6,10 @@
 
 <br>
 <a href="https://github.com/dmurilo/github-readme-stats">
-  <img height=215 align="center" src="https://github-readme-stats.vercel.app/api?username=dmurilo&theme=tokyonight" />
+  <img height=213 align="center" src="https://github-readme-stats.vercel.app/api?username=dmurilo&theme=tokyonight" />
 </a>
 <a href="https://github.com/dmurilo/convoychat">
-  <img height=215 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmurilo&layout=donut&langs_count=8&card_width=300&theme=tokyonight" />
+  <img height=213 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmurilo&layout=donut&langs_count=8&card_width=300&theme=tokyonight" />
 </a>
 
 <br>
